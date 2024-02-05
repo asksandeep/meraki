@@ -1,0 +1,67 @@
+
+@media (max-width: 575px) { 
+
+.header{text-align: center;}
+.header .slogon{font-size: 26px;padding-top: 15px; text-align: center}
+
+.solar-hero .hero-content{padding: 50px 0}
+.solar-hero .hero-content h1{font-size: 34px; font-weight: normal; margin-bottom: 25px;font-family: 'Lalezar', cursive;}
+.solar-hero .hero-content h2{color: #fff; font-size: 32px;}
+
+.highlighter{background-color: #580c0f; text-align: center;padding: 60px 20px;}
+
+.form-1{padding: 25px;text-align: left}
+
+.page-content{position: relative;padding-right: 20px; padding-left: 20px;}
+.page-content h1{font-size: 40px; margin: 0;padding: 0;}
+
+.why-solar{position: relative;padding-right: 20px; padding-left: 20px;}
+.why-solar .whysolar-item .icon{width: 100px; float: left}
+.why-solar .whysolar-item .icon img{width: 100%;}
+.why-solar .whysolar-item .content{padding-left: 105px;}
+.why-solar .whysolar-item h3{font-family: 'Titillium Web', sans-serif; text-transform: uppercase; font-size: 25px;}
+
+.reviews-area h1{padding:40px 20px; text-align: center; font-size: 40px; background-color: #e0e0e0}
+
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+.header{text-align: center;}
+.header .slogon{font-size: 26px;padding-top: 15px; text-align: center}
+
+ }
+
+
+@media (min-width: 768px) and (max-width: 991px) { 
+
+.header{text-align: center;}
+.header .slogon{font-size: 26px;padding-top: 15px; text-align: center}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+
+
+
+}
+
+
+@media (min-width: 1200px) { 
+
+
+
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1900px) { 
+
+.container{max-width: 1200px;}
+
+
+}
+
